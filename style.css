@@ -1,0 +1,45 @@
+:root {
+    --theme_color: rgb(237, 44, 163);
+    --white: #ffffff;
+  }
+
+#main_container{
+    background-image: url('./images/pet_main_image_2.jpeg');
+    width: 100vw;
+    height: 100vh;
+    background-repeat: round;
+}
+
+#pet_logo{
+    width: 5vw;
+    mix-blend-mode: multiply;
+}
+
+#logo_heading{
+    color: var(--theme_color) ;
+    margin-right: 140px;
+    font-family:fantasy;
+}
+#logo_heading span{
+    color: blue;
+}
+.nav_item{
+    margin: 0rem 1rem;
+}
+
+#line_on_image{
+    font-family: cursive;
+    font-size: 50px;
+    color: blue;
+    margin:3% 10%;
+    /* display: inline-block; */
+}
+
+#appointment_btn{
+    background-color:rgb(47, 0, 128);
+    padding: .5%;
+    color: aqua;
+    border: none;
+    border-bottom: 4px solid blue;
+    margin-left: 11% ;
+}
