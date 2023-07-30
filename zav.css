@@ -83,8 +83,10 @@
 .font{
     color: white;}
     .sec img{
-        height: 300px;
-        width: 300px;
+        
+        
+        height: 400px;
+        width: 488px;
         position: relative;
         top: 12px;
         left: 10px;
@@ -99,8 +101,7 @@
         margin-top: 3px;
     }
      #eme{
-        position: relative;
-        top: 620px;
+    
     } 
     hr{
         display: inline block;
